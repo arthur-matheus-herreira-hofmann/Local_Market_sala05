@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "desc": "Perfume Odissey",
+        "imagem": "../../public/images0001.jpg",
+        "valor": 80.00
+    },
+
+    {
+        "id": 1,
+        "desc": "Perfume Savage",
+        "imagem": "../../public/images0002.jpg",
+        "valor": 91.00
+    },
+
+    {
+        "id": 1,
+        "desc": "Perfume Vulx",
+        "imagem": "../../public/images0003.jpg",
+        "valor": 110.00
+    }
+]
